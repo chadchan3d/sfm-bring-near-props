@@ -1,0 +1,18 @@
+# Runtime and local evidence
+*.log
+*.zip
+*.bak
+*.tmp
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Private/local publication material
+private/
+audit-private/
+publication-staging/
+
+# Common editor / OS clutter
+.DS_Store
+Thumbs.db
